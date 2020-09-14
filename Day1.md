@@ -1,4 +1,4 @@
-# <a style="color:lightBlue">#Day1 Tutorial </a>
+# <a style="color:lightBlue">Day1 Tutorial </a>
 
 ---
 ###### Topics: Linux Commands, DNS Records, Information Gathering
